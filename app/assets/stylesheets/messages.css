@@ -134,3 +134,6 @@
   color: white ;
   text-decoration: none;
 }
+.field_with_errors {
+  display: contents ;
+}
